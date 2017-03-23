@@ -1,0 +1,18 @@
+{
+  "name": "ng2-dropzone-wrapper",
+  "version": "0.0.1",
+  "private": false,
+  "description": "A jQuery based wrapper to dropzone written in typescript for angular2",
+  "homepage": "https://github.com/akshayat/ng2-dropzone-wrapper",
+  "bugs": "https://github.com/akshayat/ng2-dropzone-wrapper/issues",
+  "license": "Apache License 2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshayat/ng2-dropzone-wrapper.git"
+  },
+  "devDependencies": {
+    "@angular/core": "2.4.10",
+    "rxjs": "^5.0.1",
+    "zone.js": "^0.7.2"
+  }
+}
