@@ -34,8 +34,10 @@ import { FileUploadDirective } from '<path-to-file-upload>/file-upload.directive
 
 3. Include it in html
 ```html
-<file-upload id="profilePicture" accept=".jpg,.png,.jpeg"></file-upload>
+<file-upload id="idOfElement" accept=".jpg,.png,.jpeg"></file-upload>
 ```
+
+If you don't use `accept` it will allow any file types.
 
 4. Run
 
