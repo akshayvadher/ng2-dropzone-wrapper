@@ -4,7 +4,7 @@ A jQuery based wrapper to dropzone written in typescript for angular2
 ## Disclaimer
 This is not written as per standards of angular 2.
 
-How ever this is helpful and readily available utility which can help developers who don't have any alternative and are writting manually code for file file-upload.directive.ts
+However this is helpful and readily available utility which can help developers who don't have any alternative and are writting manually code for file upload.
 
 Dropzone is very good plugin for fileupload, however manytime we require to write code (and replicate them) to make most of it.
 
