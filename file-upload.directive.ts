@@ -16,6 +16,7 @@ export class FileUploadDirective implements OnDestroy, AfterViewInit, OnChanges 
     .showcase{border:1px dashed #000;background:#c5c5c5;color:white;padding:5px;cursor: pointer;}
     .fu-remove{padding-left:5px;color:#e74c3c;}
     .fu-undo{padding-left:5px;color:#3498db;}
+    .hidden{display:none;visibility:hidden;}
     </style></wrapper>`;
     defaultMessage: string = 'Click here to upload file';
     thisDropzone: any;
