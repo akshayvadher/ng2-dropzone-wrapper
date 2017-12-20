@@ -1,3 +1,7 @@
+/**
+* ng2-dropzone-wrapper
+* https://github.com/akshayat/ng2-dropzone-wrapper
+*/
 import { Directive, ElementRef, Input, OnDestroy, AfterViewInit, OnChanges } from '@angular/core';
 
 declare var $: any;
