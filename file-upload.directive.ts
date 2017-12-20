@@ -1,6 +1,7 @@
 /**
-* ng2-dropzone-wrapper
-* https://github.com/akshayat/ng2-dropzone-wrapper
+* Name: ng2-dropzone-wrapper v0.1
+* GitHub: https://github.com/akshayat/ng2-dropzone-wrapper
+* License: https://github.com/akshayat/ng2-dropzone-wrapper/blob/master/LICENSE
 */
 import { Directive, ElementRef, Input, OnDestroy, AfterViewInit, OnChanges } from '@angular/core';
 
