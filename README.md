@@ -1,6 +1,9 @@
 # ng2-dropzone-wrapper
 A jQuery based wrapper to dropzone written in typescript for angular2
 
+## Deprecation
+This was many years ago when there was not direct plugin available in angular for dropzone. This is just a jQuery wrapper and it is not recommended to use it in any project. 
+
 ## Disclaimer
 This is not written as per standards of angular 2.
 
